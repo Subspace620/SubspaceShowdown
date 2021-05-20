@@ -5,23 +5,23 @@
 
 > #### President
 > [Lt. Ana Jones](crew/AnaJones.html)
-> ![Lt. Ana Jones](crew/images/AnaJones.png)
+> ![Lt. Ana Jones](images/AnaJones.png)
 
 > #### Vice President
 > [Commander Sean Moran](crew/SeanMoran.html)
-> ![Commander Sean Moran](crew/images/SeanMoran.jpg)
+> ![Commander Sean Moran](images/SeanMoran.jpg)
 
 > #### Secretary/Treasurer
 > [Lt. Destiny Ducommun](crew/Destiny.html)
-> ![Lt. Destiny Ducommun](crew/images/Destiny.png)
+> ![Lt. Destiny Ducommun](images/Destiny.png)
 
 > ## Extended Exec
 > [Lt. Joshua Mayer](crew/JoshuaMayer.html)
-> ![Lt. Joshua Mayer](crew/images/JoshuaMayer.png)
+> ![Lt. Joshua Mayer](images/JoshuaMayer.png)
 
 > #### Extended Exec
 > [Lt. Colleen Lamb](crew/Colleen.html)
-> ![Lt. Colleen Lamb](crew/images/Colleen.jpg)
+> ![Lt. Colleen Lamb](images/Colleen.jpg)
 
 ### What do the rankings mean?
 
