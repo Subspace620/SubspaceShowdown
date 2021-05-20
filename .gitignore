@@ -1,6 +1,9 @@
 # oldsite doesn't need to appear here
 oldsite/
 
+#neither do my libraries!
+bower_components/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
